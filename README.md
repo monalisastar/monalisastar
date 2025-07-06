@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 👋 Hi, I'm Brian Njata (a.k.a. Monalisa Star)
 
 🚀 I'm a self-taught developer building tech that empowers people and protects the planet.  
