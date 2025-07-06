@@ -38,3 +38,9 @@ From AI bots to blockchain escrow systems to climate learning platforms — I co
 
 
 📌 Be sure to explore the pinned repos for live demos and code.
+
+📊 GitHub Stats
+
+![MonalisaStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=monalisastar&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monalisastar&layout=compact&theme=tokyonight)
