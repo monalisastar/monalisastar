@@ -32,7 +32,7 @@ From AI bots to blockchain escrow systems to climate learning platforms — I co
 ## 📫 Let's Connect
 
 - 💻 [FreelancersPalace.com](https://freelancerspalace.com)
-- ✉️ Email: *[your@email.com]*
+- ✉️ Email: njatabrian648@gmail.com
 - 💼 LinkedIn: *[linkedin.com/in/your-link]*
 
 
