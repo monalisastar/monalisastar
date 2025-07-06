@@ -33,7 +33,7 @@ From AI bots to blockchain escrow systems to climate learning platforms — I co
 
 - 💻 [FreelancersPalace.com](https://freelancerspalace.com)
 - ✉️ Email: njatabrian648@gmail.com
-- 💼 LinkedIn: *[linkedin.com/in/your-link]*
+- 💼 LinkedIn: https://www.linkedin.com/in/brian-njata-30700125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
